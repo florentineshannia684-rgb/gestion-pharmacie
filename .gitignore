@@ -1,0 +1,12 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+# Fichier de config local eventuel a cote du jar
+/db.properties.local
+dependency-reduced-pom.xml
